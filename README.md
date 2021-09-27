@@ -47,6 +47,7 @@
 ![image](https://drive.google.com/uc?export=view&id=11ab0b2C8KTyLHR5BwQnFCvJ-BWEORF-c)  
 
 ### - 5. Conclusion
+最後小組分數 : 80  
 這次的 PROJECT 我們先參考了網路上黑白棋的寫法，原本一開始的想法是用Min Max 跑完整的棋局做最佳解，後來寫一寫才看到有限制 running time 5s，結果只好砍掉重練，也是上網參考很多 AI 的演算法，結果跟其他組比起來我們算是落在中間的部分，沒有輸大多數人也沒有贏大多數人，如果有機會得知其他人是怎麼做的或許可以再繼續改進。
 
 ### - 6. Reference
