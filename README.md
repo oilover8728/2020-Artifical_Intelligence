@@ -5,7 +5,7 @@
 
 ## - 2. Rule
 * 跟傳統的黑白棋中間 2x2 已有黑白相間的旗子不同，棋盤一開始是空的  
-![image](https://drive.google.com/uc?export=view&id=1aQ0xxybVyKf8Am5Faz-k1fr7FTNjZZHX)  
+![image](https://drive.google.com/uc?export=view&id=1Y93HPbGUp8jnBdWjwDaRtvaIY7b6sfTy)  
 * 黑棋先動
 * 4 個角落不能下棋(被排除) –(估計可以減少很多判斷)
 ##### 合法的動作 :
